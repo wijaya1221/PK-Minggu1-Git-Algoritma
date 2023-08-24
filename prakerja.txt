@@ -1,4 +1,0 @@
-Halo ini widi dari branch master
-ini perubahan dari branch development
-ini perubahan dari branch master dev B - git clone 
-ini perubahan dari branch master dev A - git remote add
